@@ -1,0 +1,10 @@
+- 👋 https://www.kaggle.com/osbertc/account
+- 👀 https://docs.microsoft.com/en-us/learn
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+osbertc/osbertc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
