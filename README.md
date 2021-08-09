@@ -1,6 +1,8 @@
+# Learn notebook
+
 - 👋 https://www.kaggle.com/osbertc/account
 - 👀 https://docs.microsoft.com/en-us/learn
-- 🌱 I’m currently learning ...
+- 🌱 https://www.coursera.org/user/b0ddbb656d60d8cefde3879a6a2ec9f3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
